@@ -117,7 +117,7 @@ body{
     grid-row-gap: 0.5em;
     padding: 1rem;
 }
-#samuel{
+.samuel{
     color: hsl(276, 55%, 52%) ;
     background-color: lightgray;
     border-radius: 1.5em;
@@ -125,7 +125,7 @@ body{
     width: 70%;
     font-size: 0.5rem;
 }
-#user-text{
+.user-text{
     color: hsl(271, 15%, 43%);
     background-color: white;
     border-radius: 1.5em;
